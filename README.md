@@ -52,6 +52,19 @@ If you want to go down the traditional route, here are some websites to checkout
 
 ### Bootstrap and Sass
 
+- [Bootstrap Docs](https://getbootstrap.com/)
+- [Sass Tutorial - W3Schools](https://www.w3schools.com/sass/)
+- [Sass Tutorial - GetBootstrap](https://getbootstrap.com/docs/4.0/getting-started/theming/)
+- [Sass Tutorial - Mugo](https://www.mugo.ca/Blog/How-to-customize-Bootstrap-4-using-Sass)
+- [Sass in BootstrapStudio](https://bootstrapstudio.io/tutorials/writing-sass)
+
+
+- [Bootstrap 4 with Sass - Academind](https://www.youtube.com/watch?v=6Ovw43Dkp44)
+- [Sass Tutorial - Dev Ed](https://www.youtube.com/watch?v=Zz6eOVaaelI)
+- [Bootstrap and Sass TraversyMedia](https://www.youtube.com/playlist?list=PLillGF-RfqbbpWowfjk9_Vv8XUuTBFPut)
+- [Bootstrap - Code With Bibek](https://www.youtube.com/watch?v=APlvSxO0TvQ)
+- [Bootstrap 4 Tutorial - Brad Hussey](https://www.youtube.com/watch?v=pZD2casdkXM)
+- [Bootstrap 5 and Sass - Thapa Technical](https://www.youtube.com/watch?v=-fAGionF5HI)
 
 ## Vanilla Javascript
 
