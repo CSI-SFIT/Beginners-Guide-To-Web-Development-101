@@ -3,11 +3,29 @@
  --
 ![alt text](https://w3-lab.com/wp-content/uploads/2019/12/Get-the-Most-Fancied-Web-Development-Services-min-scaled.jpg)
 
+## Complete Web Development Resources
+
+If you don't want to go the traditional route and learn one by one, here are courses that cover the entirity of Web Development:
+
+- [Complete Web Development Course - CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+- [Complete Web Development Course - FreeCodeCamp/CodingAddict](https://www.youtube.com/watch?v=mU6anWqZJcc)
+- [Complete Web Development Course - Envato Tuts](https://www.youtube.com/playlist?list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F)
 
 ## HTML
 
-1. [HTML YouTube](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-2. [HTML Tutorial](https://www.w3schools.com/html/)
+HTML is the backbone of the entire page. All the content in the page is given in the HTML. Here are some resources to check out HTML:
+
+- [HTML - FreeCodecamp/Giraffe Academy](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [HTML - FreeCodeCamp/CodingAddict](https://www.youtube.com/watch?v=mU6anWqZJcc)
+- [HTML - TraversyMedia](https://www.youtube.com/watch?v=UB1O30fR-EE)
+
+
+- [HTML - W3Schools](https://www.w3schools.com/html/)
+- [HTML - TutorialsPoint](https://www.tutorialspoint.com/html/index.htm)
+- [HTML - JavatPoint](javatpoint.com/html-tutorial)
+- [HTML - HTML.com](https://html.com/)
+- [HTML - CodeAcademy](https://www.codecademy.com/learn/learn-html)
+- [HTML - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## CSS
 
@@ -21,6 +39,16 @@ Then you can use the blocks to add to your code feom the following site:[TailBlo
 
 If you want to go down the traditional route, here are some websites to checkout:
 
+- [CSS Full Course - FreeCodecamp](https://www.youtube.com/watch?v=ieTHC78giGQ)
+- [CSS Zero To Hero - Jad Khalil](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+
+- [CSS - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+- [CSS - CodeAcademy](https://www.codecademy.com/learn/learn-css)
+- [CSS - HTMLDog](https://htmldog.com/guides/css/)
+- [CSS - W3Schools](https://www.w3schools.com/css/)
+- [CSS - TutorialsPoint](https://www.tutorialspoint.com/css/index.htm)
+- [CSS - JavatPoint](https://www.javatpoint.com/css-tutorial)
+- [CSS - CSSTutorial.net](https://www.csstutorial.net/)
 
 ### Bootstrap and Sass
 
@@ -45,3 +73,4 @@ If you want to go down the traditional route, here are some websites to checkout
 3. [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
 4. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 5. [thenewboston](https://www.youtube.com/user/thenewboston)
+6. [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
