@@ -68,9 +68,50 @@ If you want to go down the traditional route, here are some websites to checkout
 
 ## Vanilla Javascript
 
+Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications. You should learn Vaniill JS before starting in any front end frameworks like. Here are some resources to get started:
+
+- [Vanilla JS Official Docs](http://vanilla-js.com/)
+- [LearnVanillaJS.com](http://vanilla-js.com/)
+- [Vanilla JS Academy](https://vanillajsacademy.com/#:~:text=The%20Vanilla%20JS%20Academy%20is,to%20help%20you%20get%20started.)
+- [Javascript Challenges and Projects](https://javascript30.com/)
+- [Javascript Courses - Lynda](https://www.lynda.com/learning-paths/Web/become-a-vanilla-javascript-developer)
+
+
+- [Vanilla Javascript - Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
+- [Vanilla Javascript - Dev Ed](https://www.youtube.com/playlist?list=PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA)
+- [Vanilla Javascript Project Tutorial](https://www.youtube.com/watch?v=Ttf3CEsEwMQ)
+- [Vanilla Javascript - Online Tutorials](https://www.youtube.com/playlist?list=PL5e68lK9hEzd6RUzREoABqimRI4SY63ND)
 
 ## Popular Javascipt Front-End Frameworks
 
+There are 4 top Front end Frameworks in the market currently:
+
+- Angular
+  - [Angular Official Site](https://angular.io/)
+  - [AngularJS Tutorial - W3Schools](https://www.w3schools.com/angular/)
+  - [Angular - FreeCodecamp/Dan Wahlin](https://www.freecodecamp.org/news/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451/)
+
+  - [Angular Tutorial - Programming With Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)
+  - [Angular Course - FreeCodeCamp/CodeDamn](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+  - [Angular Course - Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+  - [Angular Crash Course - DesignCourse](https://www.youtube.com/watch?v=_TLhUCjY9iA)
+  - [Angular 9 Tutorial - PHP Step By Step](https://www.youtube.com/playlist?list=PL8p2I9GklV45GP23mlinXabp4d4ASdtzK)
+  - [Angular Crash Course - Hitesh Chowdhary](https://www.youtube.com/watch?v=T_Fe4IaG0KU)
+
+- React
+  - [ReactJS Official Docs](https://reactjs.org/)
+  - [React Tutorial - W3Schools](https://www.w3schools.com/react/)
+  - [Learn React - CodeAcademy](https://www.codecademy.com/learn/react-101)
+
+  - [React Course - Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+  - [React Course - Thapa Technical](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
+  - [React Course - FreeCodeCamp/Bob Ziroll](https://www.youtube.com/watch?v=DLX62G4lc44)
+  - [React Course - Programming With Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+  - [React Course - Aaron Jack](https://www.youtube.com/watch?v=MRIMT0xPXFI)
+  - [React Course - Web Dev Simplified](https://www.youtube.com/watch?v=hQAHSlTtcmY)
+
+- Ember
+- Vue
 
 
 ## Front-End Development Courses
