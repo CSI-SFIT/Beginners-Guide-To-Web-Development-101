@@ -84,7 +84,7 @@ Vanilla JS is a fast, lightweight, cross-platform framework for building incredi
 
 ## Popular Javascipt Front-End Frameworks
 
-There are 4 top Front end Frameworks in the market currently:
+There are 4 top Javascript Front end Frameworks in the market currently:
 
 - Angular
   - [Angular Official Site](https://angular.io/)
@@ -99,6 +99,7 @@ There are 4 top Front end Frameworks in the market currently:
   - [Angular Crash Course - Hitesh Chowdhary](https://www.youtube.com/watch?v=T_Fe4IaG0KU)
 
 - React
+
   - [ReactJS Official Docs](https://reactjs.org/)
   - [React Tutorial - W3Schools](https://www.w3schools.com/react/)
   - [Learn React - CodeAcademy](https://www.codecademy.com/learn/react-101)
@@ -111,10 +112,33 @@ There are 4 top Front end Frameworks in the market currently:
   - [React Course - Web Dev Simplified](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 
 - Ember
+  - [Learn EmberJS](https://emberjs.com/learn/)
+  - [Ember Learn Github Repo](https://github.com/ember-learn)
+  - [EmberJS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/emberjs/index.htm)
+  - [EmberJS - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started)
+  - [Learn EmberJS - hackr.io](https://hackr.io/tutorials/learn-ember-js)
+
+  - [Ember.js Guide - Program With Erik](https://www.youtube.com/playlist?list=PL-lxoPS_1OXWBn3h1mNyX2ZVGYsn5-akf)
+  - [Master Ember.js](https://www.youtube.com/playlist?list=PLnIJ02CcZiYBNRg_ZGMSNS5tHRgI9jvCG)
+  - [Ember Tutorials - Scott Batson](https://www.youtube.com/playlist?list=PLelL5s7nDFKVVPZNwfnuDG-Xe_28F1PSO)
+  - [Ember.js Tutorial - Shawn Chen](https://www.youtube.com/watch?v=eQUvN9Ujs1s)
+
 - Vue
+  - [VueJS Official Docs](https://vuejs.org/v2/guide/)
+  - [VueJS Courses - VueMastery](https://www.vuemastery.com/courses/)
+  - [VueJS Course -  CodeAcademy](https://www.codecademy.com/learn/learn-vue-js)
+  - [VueJS - W3Schools](https://www.w3schools.com/whatis/whatis_vue.asp)
+  - [Vue Course - LearnVue](https://learnvue.co/)
+  - [Vue Courses - hackr.io](https://hackr.io/tutorials/learn-vue-js)
 
+  - [VueJS Course - TraversyMedia](https://www.youtube.com/watch?v=Wy9q22isx3U)
+  - [VueJS 2 Tutorial - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+  - [VueJS Tutorial - PHP Step By Step](https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn)
+  - [VueJS Tutorial - FreeCodecamp/Gwen Faradays](https://www.youtube.com/watch?v=4deVCNJq3qc)
+  - [VueJS 3 Course - The Earth is Square](https://www.youtube.com/watch?v=ZqgiuPt5QZo)
+  - [VueJS Course - DesignCourse](https://www.youtube.com/watch?v=78tNYZUS-ps)
 
-## Front-End Development Courses
+## Complete Front-End Development Courses
 1. [Html-CSS-Javascript-for-Web-developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 2. [Front-End Dev with React](https://www.coursera.org/learn/front-end-react)
 3. [The Complete Front-End Web Development Course!](https://www.udemy.com/course/front-end-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-DGlzadS4uS9MyqQ.1GjAAg&utm_medium=udemyads&utm_source=aff-campaign)
