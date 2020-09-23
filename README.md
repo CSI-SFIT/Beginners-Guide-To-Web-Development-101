@@ -5,10 +5,20 @@
 ## Complete Web Development Resources
 
 If you don't want to go the traditional route and learn one by one, here are courses that cover the entirity of Web Development:
+- [Modern Html/CSS from the beginning- TraversyMedia](https://www.udemy.com/course/modern-html-css-from-the-beginning/?referralCode=EB0470C43F3C3E9AA306)
+- [The Complete Front-End Web Development Course!- Udemy](https://www.udemy.com/course/front-end-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-DGlzadS4uS9MyqQ.1GjAAg&utm_medium=udemyads&utm_source=aff-campaign)
+- [Html-CSS-Javascript-for-Web-developers- Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+- [Front-End Dev with React- Coursera](https://www.coursera.org/learn/front-end-react)
+
+<br><br>
+YouTube
 
 - [Complete Web Development Course - CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 - [Complete Web Development Course - FreeCodeCamp/CodingAddict](https://www.youtube.com/watch?v=mU6anWqZJcc)
 - [Complete Web Development Course - Envato Tuts](https://www.youtube.com/playlist?list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F)
+
+
+
 
 ## HTML
 
@@ -64,7 +74,7 @@ If you want to go down the traditional route, here are some websites to checkout
 
 ## Vanilla Javascript
 
-Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications. You should learn Vaniill JS before starting in any front end frameworks like. Here are some resources to get started:
+Vanilla JS is a fast, lightweight, cross-platform framework for building incredible, powerful JavaScript applications. You should learn Vanilla JS before starting in any front end frameworks like. Here are some resources to get started:
 
 - [Vanilla JS Official Docs](http://vanilla-js.com/)
 - [LearnVanillaJS.com](http://vanilla-js.com/)
@@ -81,11 +91,28 @@ Vanilla JS is a fast, lightweight, cross-platform framework for building incredi
 
 There are 4 top Javascript Front end Frameworks in the market currently:
 
+- React 
+
+ReactJS is an open-source JavaScript library for building user interfaces or UI components. It was created by developers at Facebook.React can be used as a base in the development of single-page or mobile applications. It was open-sourced in 2013 and has since been the most popular front-end framework in the developer community.
+<br><br>
+  - [ReactJS Official Docs](https://reactjs.org/)
+  - [React Tutorial - W3Schools](https://www.w3schools.com/react/)
+  - [Learn React - CodeAcademy](https://www.codecademy.com/learn/react-101)
+<br><br>
+  - [React Crash Course - TraversyMedia](https://www.youtube.com/watch?v=sBws8MSXN7A&list=PL3VukvKUzL3jAWqztmZ8EIWFVPiPe-qmD&index=5&t=0s)
+  - [React Course - Programming With Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+  - [React Course - FreeCodeCamp/Bob Ziroll](https://www.youtube.com/watch?v=DLX62G4lc44)
+  - [React Course - Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+  - [React Course - Web Dev Simplified](https://www.youtube.com/watch?v=hQAHSlTtcmY)
+
 - Angular
+
+AngularJS is a JavaScript-based open-source front-end web framework created by Google to address many of the challenges encountered in developing single-page applications. It aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model–view–viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications.
+<br><br>
   - [Angular Official Site](https://angular.io/)
   - [AngularJS Tutorial - W3Schools](https://www.w3schools.com/angular/)
   - [Angular - FreeCodecamp/Dan Wahlin](https://www.freecodecamp.org/news/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451/)
-<br><br>
+
   - [Angular Tutorial - Programming With Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)
   - [Angular Course - FreeCodeCamp/CodeDamn](https://www.youtube.com/watch?v=2OHbjep_WjQ)
   - [Angular Course - Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
@@ -93,32 +120,10 @@ There are 4 top Javascript Front end Frameworks in the market currently:
   - [Angular 9 Tutorial - PHP Step By Step](https://www.youtube.com/playlist?list=PL8p2I9GklV45GP23mlinXabp4d4ASdtzK)
   - [Angular Crash Course - Hitesh Chowdhary](https://www.youtube.com/watch?v=T_Fe4IaG0KU)
 
-- React
-
-  - [ReactJS Official Docs](https://reactjs.org/)
-  - [React Tutorial - W3Schools](https://www.w3schools.com/react/)
-  - [Learn React - CodeAcademy](https://www.codecademy.com/learn/react-101)
-<br><br>
-  - [React Course - Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
-  - [React Course - Thapa Technical](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
-  - [React Course - FreeCodeCamp/Bob Ziroll](https://www.youtube.com/watch?v=DLX62G4lc44)
-  - [React Course - Programming With Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
-  - [React Course - Aaron Jack](https://www.youtube.com/watch?v=MRIMT0xPXFI)
-  - [React Course - Web Dev Simplified](https://www.youtube.com/watch?v=hQAHSlTtcmY)
-
-- Ember
-  - [Learn EmberJS](https://emberjs.com/learn/)
-  - [Ember Learn Github Repo](https://github.com/ember-learn)
-  - [EmberJS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/emberjs/index.htm)
-  - [EmberJS - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started)
-  - [Learn EmberJS - hackr.io](https://hackr.io/tutorials/learn-ember-js)
-<br><br>
-  - [Ember.js Guide - Program With Erik](https://www.youtube.com/playlist?list=PL-lxoPS_1OXWBn3h1mNyX2ZVGYsn5-akf)
-  - [Master Ember.js](https://www.youtube.com/playlist?list=PLnIJ02CcZiYBNRg_ZGMSNS5tHRgI9jvCG)
-  - [Ember Tutorials - Scott Batson](https://www.youtube.com/playlist?list=PLelL5s7nDFKVVPZNwfnuDG-Xe_28F1PSO)
-  - [Ember.js Tutorial - Shawn Chen](https://www.youtube.com/watch?v=eQUvN9Ujs1s)
-
 - Vue
+
+Vue.js is an open-source model–view–viewmodel JavaScript framework for building user interfaces and single-page applications.It was created by Evan You, and is maintained by him and the rest of the active core team members coming from various companies such as Netlify and Netguru.
+<br><br>
   - [VueJS Official Docs](https://vuejs.org/v2/guide/)
   - [VueJS Courses - VueMastery](https://www.vuemastery.com/courses/)
   - [VueJS Course -  CodeAcademy](https://www.codecademy.com/learn/learn-vue-js)
@@ -130,14 +135,19 @@ There are 4 top Javascript Front end Frameworks in the market currently:
   - [VueJS 2 Tutorial - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
   - [VueJS Tutorial - PHP Step By Step](https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn)
   - [VueJS Tutorial - FreeCodecamp/Gwen Faradays](https://www.youtube.com/watch?v=4deVCNJq3qc)
-  - [VueJS 3 Course - The Earth is Square](https://www.youtube.com/watch?v=ZqgiuPt5QZo)
-  - [VueJS Course - DesignCourse](https://www.youtube.com/watch?v=78tNYZUS-ps)
 
-## Complete Front-End Development Courses
-1. [Html-CSS-Javascript-for-Web-developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
-2. [Front-End Dev with React](https://www.coursera.org/learn/front-end-react)
-3. [The Complete Front-End Web Development Course!](https://www.udemy.com/course/front-end-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-DGlzadS4uS9MyqQ.1GjAAg&utm_medium=udemyads&utm_source=aff-campaign)
+- Ember
 
+Ember.js is an open-source JavaScript web framework, utilizing a component-service pattern. It was developed by Yehuda Katz and initially released on in December 2011. It allows developers to create scalable single-page web applications by incorporating common idioms and best practices into the framework.
+<br><br>
+  - [Learn EmberJS](https://emberjs.com/learn/)
+  - [Ember Learn Github Repo](https://github.com/ember-learn)
+  - [EmberJS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/emberjs/index.htm)
+  - [Learn EmberJS - hackr.io](https://hackr.io/tutorials/learn-ember-js)
+<br><br>
+  - [Ember.js Guide - Program With Erik](https://www.youtube.com/playlist?list=PL-lxoPS_1OXWBn3h1mNyX2ZVGYsn5-akf)
+  - [Master Ember.js](https://www.youtube.com/playlist?list=PLnIJ02CcZiYBNRg_ZGMSNS5tHRgI9jvCG)
+  - [Ember Tutorials - Scott Batson](https://www.youtube.com/playlist?list=PLelL5s7nDFKVVPZNwfnuDG-Xe_28F1PSO)
 
 
 ## YouTube Channels
