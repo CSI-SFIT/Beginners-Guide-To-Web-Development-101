@@ -148,3 +148,24 @@ There are 4 top Javascript Front end Frameworks in the market currently:
 4. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 5. [thenewboston](https://www.youtube.com/user/thenewboston)
 6. [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+
+**How to Contribute**
+---
+1. Clone repo and create a new branch: `$ git checkout https://github.com/CSI-SFIT/Web-Development.git -b name_for_new_branch`.
+2. Make changes and test.
+3. Submit Pull Request with comprehensive description of changes.
+
+**Acknowledgements**
+---
+
+**CSI SFIT Tech Team 2020 - 2021 :**
++ Tech Joint Head : [@Kaif Kohari](https://github.com/Kaif10)
++ Tech Executive : [@Varun-Patkar](https://github.com/Varun-Patkar)
+
+<br>
+<p align="center">
+  <a href="https://www.csi.sfit.ac.in/">
+    <img src="https://www.csi.sfit.ac.in/logo.png"
+         alt="csi_logo" width="300" height="200">
+  </a>
+</p>
