@@ -40,7 +40,7 @@ If you want to go down the traditional route, here are some websites to checkout
 
 - [CSS Full Course - FreeCodecamp](https://www.youtube.com/watch?v=ieTHC78giGQ)
 - [CSS Zero To Hero - Jad Khalil](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-
+<br><br>
 - [CSS - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 - [CSS - CodeAcademy](https://www.codecademy.com/learn/learn-css)
 - [CSS - HTMLDog](https://htmldog.com/guides/css/)
@@ -56,8 +56,7 @@ If you want to go down the traditional route, here are some websites to checkout
 - [Sass Tutorial - GetBootstrap](https://getbootstrap.com/docs/4.0/getting-started/theming/)
 - [Sass Tutorial - Mugo](https://www.mugo.ca/Blog/How-to-customize-Bootstrap-4-using-Sass)
 - [Sass in BootstrapStudio](https://bootstrapstudio.io/tutorials/writing-sass)
-
-
+<br><br>
 - [Bootstrap 4 with Sass - Academind](https://www.youtube.com/watch?v=6Ovw43Dkp44)
 - [Sass Tutorial - Dev Ed](https://www.youtube.com/watch?v=Zz6eOVaaelI)
 - [Bootstrap and Sass TraversyMedia](https://www.youtube.com/playlist?list=PLillGF-RfqbbpWowfjk9_Vv8XUuTBFPut)
@@ -74,8 +73,7 @@ Vanilla JS is a fast, lightweight, cross-platform framework for building incredi
 - [Vanilla JS Academy](https://vanillajsacademy.com/#:~:text=The%20Vanilla%20JS%20Academy%20is,to%20help%20you%20get%20started.)
 - [Javascript Challenges and Projects](https://javascript30.com/)
 - [Javascript Courses - Lynda](https://www.lynda.com/learning-paths/Web/become-a-vanilla-javascript-developer)
-
-
+<br><br>
 - [Vanilla Javascript - Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 - [Vanilla Javascript - Dev Ed](https://www.youtube.com/playlist?list=PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA)
 - [Vanilla Javascript Project Tutorial](https://www.youtube.com/watch?v=Ttf3CEsEwMQ)
@@ -89,7 +87,7 @@ There are 4 top Javascript Front end Frameworks in the market currently:
   - [Angular Official Site](https://angular.io/)
   - [AngularJS Tutorial - W3Schools](https://www.w3schools.com/angular/)
   - [Angular - FreeCodecamp/Dan Wahlin](https://www.freecodecamp.org/news/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451/)
-
+<br><br>
   - [Angular Tutorial - Programming With Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)
   - [Angular Course - FreeCodeCamp/CodeDamn](https://www.youtube.com/watch?v=2OHbjep_WjQ)
   - [Angular Course - Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
@@ -102,7 +100,7 @@ There are 4 top Javascript Front end Frameworks in the market currently:
   - [ReactJS Official Docs](https://reactjs.org/)
   - [React Tutorial - W3Schools](https://www.w3schools.com/react/)
   - [Learn React - CodeAcademy](https://www.codecademy.com/learn/react-101)
-
+<br><br>
   - [React Course - Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
   - [React Course - Thapa Technical](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
   - [React Course - FreeCodeCamp/Bob Ziroll](https://www.youtube.com/watch?v=DLX62G4lc44)
@@ -116,7 +114,7 @@ There are 4 top Javascript Front end Frameworks in the market currently:
   - [EmberJS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/emberjs/index.htm)
   - [EmberJS - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Ember_getting_started)
   - [Learn EmberJS - hackr.io](https://hackr.io/tutorials/learn-ember-js)
-
+<br><br>
   - [Ember.js Guide - Program With Erik](https://www.youtube.com/playlist?list=PL-lxoPS_1OXWBn3h1mNyX2ZVGYsn5-akf)
   - [Master Ember.js](https://www.youtube.com/playlist?list=PLnIJ02CcZiYBNRg_ZGMSNS5tHRgI9jvCG)
   - [Ember Tutorials - Scott Batson](https://www.youtube.com/playlist?list=PLelL5s7nDFKVVPZNwfnuDG-Xe_28F1PSO)
@@ -129,7 +127,7 @@ There are 4 top Javascript Front end Frameworks in the market currently:
   - [VueJS - W3Schools](https://www.w3schools.com/whatis/whatis_vue.asp)
   - [Vue Course - LearnVue](https://learnvue.co/)
   - [Vue Courses - hackr.io](https://hackr.io/tutorials/learn-vue-js)
-
+<br><br>
   - [VueJS Course - TraversyMedia](https://www.youtube.com/watch?v=Wy9q22isx3U)
   - [VueJS 2 Tutorial - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
   - [VueJS Tutorial - PHP Step By Step](https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn)
