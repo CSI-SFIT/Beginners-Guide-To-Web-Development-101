@@ -161,6 +161,7 @@ There are 4 top Javascript Front end Frameworks in the market currently:
 **CSI SFIT Tech Team 2020 - 2021 :**
 + Tech Joint Head : [@Kaif Kohari](https://github.com/Kaif10)
 + Tech Executive : [@Varun-Patkar](https://github.com/Varun-Patkar)
++ Tech Executive : [@Shardul Shroff](https://github.com/shardul1501)
 
 <br>
 <p align="center">
