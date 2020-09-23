@@ -40,7 +40,6 @@ If you want to go down the traditional route, here are some websites to checkout
 
 - [CSS Full Course - FreeCodecamp](https://www.youtube.com/watch?v=ieTHC78giGQ)
 - [CSS Zero To Hero - Jad Khalil](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-<br><br>
 - [CSS - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 - [CSS - CodeAcademy](https://www.codecademy.com/learn/learn-css)
 - [CSS - HTMLDog](https://htmldog.com/guides/css/)
