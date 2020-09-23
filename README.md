@@ -18,8 +18,7 @@ HTML is the backbone of the entire page. All the content in the page is given in
 - [HTML - FreeCodecamp/Giraffe Academy](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [HTML - FreeCodeCamp/CodingAddict](https://www.youtube.com/watch?v=mU6anWqZJcc)
 - [HTML - TraversyMedia](https://www.youtube.com/watch?v=UB1O30fR-EE)
-
-
+<br><br>
 - [HTML - W3Schools](https://www.w3schools.com/html/)
 - [HTML - TutorialsPoint](https://www.tutorialspoint.com/html/index.htm)
 - [HTML - JavatPoint](javatpoint.com/html-tutorial)
