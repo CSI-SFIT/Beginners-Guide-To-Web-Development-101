@@ -2,9 +2,9 @@
  --
 ![alt text](https://w3-lab.com/wp-content/uploads/2019/12/Get-the-Most-Fancied-Web-Development-Services-min-scaled.jpg)
 
-## Complete Web Development Resources
+## Getting started with Front-End Web Development
 
-If you don't want to go the traditional route and learn one by one, here are courses that cover the entirity of Web Development:
+If you don't want to go the traditional route and learn one by one, here are courses that cover the entirity of Front-End Web Development:
 - [Modern Html/CSS from the beginning- TraversyMedia](https://www.udemy.com/course/modern-html-css-from-the-beginning/?referralCode=EB0470C43F3C3E9AA306)
 - [The Complete Front-End Web Development Course!- Udemy](https://www.udemy.com/course/front-end-web-development/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-DGlzadS4uS9MyqQ.1GjAAg&utm_medium=udemyads&utm_source=aff-campaign)
 - [Html-CSS-Javascript-for-Web-developers- Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
@@ -87,7 +87,12 @@ Vanilla JS is a fast, lightweight, cross-platform framework for building incredi
 - [Vanilla Javascript Project Tutorial](https://www.youtube.com/watch?v=Ttf3CEsEwMQ)
 - [Vanilla Javascript - Online Tutorials](https://www.youtube.com/playlist?list=PL5e68lK9hEzd6RUzREoABqimRI4SY63ND)
 
-## Popular Javascipt Front-End Frameworks
+### A common question arises among many beginners that why to learn a front-end framework when the same thing can be done by HTML/CSS and Vanilla Javascript?
+
+- It is not possible to write complex, efficient and easy to maintain UIs with Vanilla JavaScript. Another reason is, in VanillaJS the code is highly repetitive and as the complexity of your UI increases, the code gets more ugly and lengthy (spaghetti code), that's where frameworks make your job easy.  If you are building small and basic applications, you can use Vanilla JS. To know more about using Vanilla JS or a Framework for your project, read ['THIS ARTICLE'](https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/).
+
+
+## Popular Javascipt Front-End Frameworks to get started with
 
 There are 4 top Javascript Front end Frameworks in the market currently:
 
