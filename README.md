@@ -81,6 +81,7 @@ Vanilla JS is a fast, lightweight, cross-platform framework for building incredi
 - [Vanilla JS Academy](https://vanillajsacademy.com/#:~:text=The%20Vanilla%20JS%20Academy%20is,to%20help%20you%20get%20started.)
 - [Javascript Challenges and Projects](https://javascript30.com/)
 - [Javascript Courses - Lynda](https://www.lynda.com/learning-paths/Web/become-a-vanilla-javascript-developer)
+- [Preserve Large Numbers and Identifiers in JSON](https://bestjson.com/learn/json-large-numbers) - Explains JavaScript number precision loss and safe handling of JSON identifiers.
 <br><br>
 - [Vanilla Javascript - Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 - [Vanilla Javascript - Dev Ed](https://www.youtube.com/playlist?list=PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA)
